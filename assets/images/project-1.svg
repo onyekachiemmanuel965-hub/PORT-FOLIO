@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Barber Shop</title>
+  <desc id="desc">Modern barber shop themed placeholder artwork.</desc>
+  <defs>
+    <linearGradient id="bg1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fbbf24"/>
+      <stop offset="100%" stop-color="#d97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg1)"/>
+  <circle cx="850" cy="180" r="120" fill="rgba(251,191,36,0.14)"/>
+  <rect x="150" y="140" width="900" height="520" rx="42" fill="rgba(255,255,255,0.05)" stroke="rgba(251,191,36,0.35)"/>
+  <rect x="260" y="260" width="240" height="200" rx="24" fill="rgba(251,191,36,0.15)"/>
+  <path d="M350 255 L410 340 L350 425 L290 340 Z" fill="url(#gold)" opacity="0.9"/>
+  <rect x="560" y="250" width="360" height="18" rx="9" fill="rgba(255,255,255,0.85)"/>
+  <rect x="560" y="310" width="310" height="18" rx="9" fill="rgba(255,255,255,0.5)"/>
+  <rect x="560" y="370" width="330" height="18" rx="9" fill="rgba(255,255,255,0.4)"/>
+  <rect x="560" y="430" width="280" height="18" rx="9" fill="rgba(255,255,255,0.3)"/>
+  <text x="150" y="710" fill="#f8fafc" font-size="62" font-family="Arial, Helvetica, sans-serif" font-weight="700">BARBER SHOP</text>
+</svg>

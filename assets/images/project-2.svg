@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Electrical Services</title>
+  <desc id="desc">Modern electrical services company themed placeholder artwork.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1320"/>
+      <stop offset="50%" stop-color="#132033"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg2)"/>
+  <path d="M140 600 L350 220 L470 220 L260 600 Z" fill="rgba(125,211,252,0.12)"/>
+  <path d="M410 600 L690 160 L820 160 L560 600 Z" fill="rgba(59,130,246,0.18)"/>
+  <circle cx="850" cy="190" r="110" fill="rgba(125,211,252,0.15)"/>
+  <rect x="180" y="200" width="780" height="360" rx="34" fill="rgba(255,255,255,0.04)" stroke="rgba(125,211,252,0.4)"/>
+  <rect x="260" y="310" width="190" height="180" rx="26" fill="rgba(125,211,252,0.15)"/>
+  <path d="M320 310 L425 390 L320 490 L215 390 Z" fill="url(#blue)" opacity="0.95"/>
+  <rect x="550" y="280" width="280" height="18" rx="9" fill="rgba(255,255,255,0.8)"/>
+  <rect x="550" y="340" width="330" height="18" rx="9" fill="rgba(255,255,255,0.5)"/>
+  <rect x="550" y="400" width="300" height="18" rx="9" fill="rgba(255,255,255,0.38)"/>
+  <rect x="550" y="460" width="260" height="18" rx="9" fill="rgba(255,255,255,0.25)"/>
+  <text x="170" y="690" fill="#f8fafc" font-size="60" font-family="Arial, Helvetica, sans-serif" font-weight="700">ELECTRICAL</text>
+</svg>
